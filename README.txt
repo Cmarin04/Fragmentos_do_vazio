@@ -326,3 +326,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 }
+
+git add .gitignore
+git commit -m "Adiciona .gitignore padrão para projetos Unity"
+git push
